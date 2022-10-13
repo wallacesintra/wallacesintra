@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wallace</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate Software developer from Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 - 🔭 I’m currently working on [a photography website](https://artsyframes.netlify.app)
+- 🔭 I made this  [random generator](https://sintrameals.netlify.app)
 
 - 🌱 I’m currently learning **python,php,django**
 
