@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on [a photography website](https://artsyframes.netlify.app)
 - 🔭 I made this  [random meal generator](https://sintrameals.netlify.app)
+- [task manager](https://sintrataskmanager.netlify.app)
 
 - 🌱 I’m currently learning **python,php,django**
 
