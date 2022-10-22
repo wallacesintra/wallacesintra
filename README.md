@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 - 🔭 I’m currently working on [a photography website](https://artsyframes.netlify.app)
-- 🔭 I made   [random meal generator](https://sintrameals.netlify.app), [task manager](https://sintrataskmanager.netlify.app)
+- 🔭 I made   [random meal generator](https://sintrameals.netlify.app), [task manager](https://sintrataskmanager.netlify.app), [web music player](https://sintraplayer.netlify.app)
 
 - 🌱 I’m currently learning **more javascript**
 
