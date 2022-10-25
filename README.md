@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [a photography website](https://artsyframes.netlify.app)
 - 🔭 I made   [random meal generator](https://sintrameals.netlify.app), [task manager](https://sintrataskmanager.netlify.app), [web music player](https://sintraplayer.netlify.app)
 
-- 🌱 I’m currently learning **more javascript**
+- 🌱 I’m currently learning **react js**
 
 - 👨‍💻 All of my projects are available at [wallacesintra.netlify.app](wallacesintra.netlify.app)
 
