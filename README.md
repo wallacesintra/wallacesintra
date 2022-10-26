@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wallace</h1>
-<h3 align="center">A Software Developer from Kenya</h3>
+<h3 align="center">A Software Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wallacesintra&label=Profile%20views&color=054d7a&style=flat" alt="wallacesintra" /> </p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 - 🔭 I’m currently working on [a photography website](https://artsyframes.netlify.app)
