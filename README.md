@@ -6,13 +6,14 @@
 <!-- - 🔭 I’m currently working on [a photography website](https://artsyframes.netlify.app) -->
 - 🔭 I made   [random meal generator](https://sintrameals.netlify.app), [task manager](https://sintrataskmanager.netlify.app), [web music player](https://sintraplayer.netlify.app)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [wallacesintra.netlify.app](wallacesintra.netlify.app)
 
 - 💬 Ask me about **HTML, CSS ,JAVASCRIPT**
 
 - 📫 How to reach me **otienowallace33@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
