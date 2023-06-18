@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wallace</h1>
-<h3 align="center"> Software Developer</h3>
+<h3 align="center"> Software Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wallacesintra&label=Profile%20views&color=054d7a&style=flat" alt="wallacesintra" /> </p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
