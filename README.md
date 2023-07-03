@@ -1,6 +1,6 @@
 <h1 align="center"> Wallace Wahong'o</h1>
 <h2 align="center"> Software Engineer </h2>
-<img align="center" alt="coding" width="100%" height= "200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="center" alt="coding" width="100%" height= "200" object-fit = "cover" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wallacesintra&label=Profile%20views&color=054d7a&style=flat" alt="wallacesintra" /> </p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
