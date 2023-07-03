@@ -1,7 +1,7 @@
 <h1 align="center"> Wallace Wahong'o</h1>
 <h2 align="center"> Software Engineer </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wallacesintra&label=Profile%20views&color=054d7a&style=flat" alt="wallacesintra" /> </p>
-<img align="right" alt="coding" width="400" src="[https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif](https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif)">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 <!-- - 🔭 I’m currently working on [a photography website](https://artsyframes.netlify.app) -->
 - 🔭 I made   [random meal generator](https://sintrameals.netlify.app), [task manager](https://sintrataskmanager.netlify.app), [web music player](https://sintraplayer.netlify.app)
