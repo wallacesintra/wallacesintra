@@ -1,5 +1,5 @@
 <h1 align="center"> Wallace Wahong'o</h1>
-<h2 align="center"> Software Engineer </h2>
+<h2 align="center"> Software Engineer | Full Stack </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wallacesintra&label=Profile%20views&color=054d7a&style=flat" alt="wallacesintra" /> </p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
