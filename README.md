@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [wallacesintra.netlify.app](wallacesintra.netlify.app)
+- 👨‍💻 All of my projects are available at [wallacesintra.netlify.app](https://wallacewahongo.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS ,JAVASCRIPT ,PYTHON**
 
