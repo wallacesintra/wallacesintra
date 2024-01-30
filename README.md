@@ -1,6 +1,6 @@
 <h1 align="center"> Wallace Wahong'o</h1>
 <h2 align="center"> Software Engineer | Mobile Developer</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wallacesintra&label=Profile%20views&color=054d7a&style=flat" alt="wallacesintra" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wallacesintra&label=Profile%20views&color=054d7a&style=flat" alt="wallacesintra" /> </p> -->
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"> -->
 
 <!-- - 🔭 I’m currently working on [a photography website](https://artsyframes.netlify.app) -->
