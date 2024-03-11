@@ -10,7 +10,7 @@
 
 - 👨‍💻 my portofolio [wallacewahongo.netlify.app](https://wallacewahongo.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS ,JAVASCRIPT ,PYTHON , KOTLIN**
+- 💬 Ask me about **JAVASCRIPT ,PYTHON , KOTLIN**
 
 - 📫 How to reach me **otienowallace33@gmail.com**
 
