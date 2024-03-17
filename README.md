@@ -6,7 +6,7 @@
 <!-- - 🔭 I’m currently working on [a photography website](https://artsyframes.netlify.app) -->
 <!-- 🔭 I made   [random meal generator](https://sintrameals.netlify.app), [task manager](https://sintrataskmanager.netlify.app), [web music player](https://sintraplayer.netlify.app)-->
 
-- 🌱 I’m currently learning **REACT NATIVE**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 my portofolio [wallacewahongo.netlify.app](https://wallacewahongo.netlify.app/)
 
