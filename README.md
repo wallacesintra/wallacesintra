@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 my portofolio [wallacewahongo.netlify.app](https://wallacewahongo.netlify.app/)
+- 👨‍💻 my portfolio [wallacewahongo.netlify.app](https://wallacewahongo.netlify.app/)
 
 - 💬 Ask me about **Kotlin, Python, JavaScript**
 
