@@ -1,29 +1,15 @@
-<h1 align="center"> Wallace Wahong'o</h1>
-<h2 align="center"> Software Engineer | Mobile Developer</h2>
 
 ```kotlin
 data class Person(
   firstame = "Wallace",
   lastname = "Wahong'o",
   portfolio = "https://wallacewahongo.netlify.app/",
-  linkedin = "www.linkedin.com/in/wallace-wahong-o-a523a31b5"
+  linkedin = "https://www.linkedin.com/in/wallace-wahong-o-a523a31b5",
+  email = "otienowallace33@gmail.com",
+  languages = ["Kotlin", "Javascript", "Python"],
   role = "Mobile Engineer"
 )
 ```
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wallacesintra&label=Profile%20views&color=054d7a&style=flat" alt="wallacesintra" /> </p> -->
-<!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"> -->
-
-<!-- - 🔭 I’m currently working on [a photography website](https://artsyframes.netlify.app) -->
-<!-- 🔭 I made   [random meal generator](https://sintrameals.netlify.app), [task manager](https://sintrataskmanager.netlify.app), [web music player](https://sintraplayer.netlify.app)-->
-
-<!-- 🌱 I’m currently learning **Kotlin** -->
-
-- 👨‍💻 my portfolio [wallacewahongo.netlify.app](https://wallacewahongo.netlify.app/)
-
-- 💬 Ask me about **Kotlin, Python, JavaScript**
-
-- 📫 How to reach me **otienowallace33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
