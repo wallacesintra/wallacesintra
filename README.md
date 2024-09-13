@@ -4,7 +4,9 @@
 ```kotlin
 data class Person(
   firstame = "Wallace",
-  lastname = "Wahong'o"
+  lastname = "Wahong'o",
+  portfolio = "https://wallacewahongo.netlify.app/",
+  linkedin = "www.linkedin.com/in/wallace-wahong-o-a523a31b5"
   role = "Mobile Engineer"
 )
 ```
