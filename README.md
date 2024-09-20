@@ -4,7 +4,6 @@ data class Person(
   firstame = "Wallace",
   lastname = "Wahong'o",
   portfolio = "https://wallacewahongo.netlify.app/",
-  linkedin = "https://www.linkedin.com/in/wallace-wahong-o-a523a31b5",
   email = "otienowallace33@gmail.com",
   languages = ["Kotlin", "Javascript", "Python"],
   role = "Mobile Engineer"
