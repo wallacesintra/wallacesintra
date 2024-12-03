@@ -1,7 +1,7 @@
 
 ```kotlin
 data class Person(
-  firstame = "Wallace",
+  firstname = "Wallace",
   lastname = "Wahong'o",
   portfolio = "https://wallacewahongo.netlify.app/",
   email = "otienowallace33@gmail.com",
