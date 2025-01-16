@@ -9,6 +9,15 @@ data class Person(
   role = "Mobile Engineer"
 )
 ```
+```kotlin
+fun thanksForVisiting(){
+  if(loveProgramming){
+    follow()
+  }else {
+    bye()
+  }
+}
+```
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallacesintra&show_icons=true&locale=en&layout=compact" alt="wallacesintra" /></p>
