@@ -9,9 +9,3 @@ data class Person(
   role = "Mobile Engineer"
 )
 ```
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallacesintra&show_icons=true&locale=en&layout=compact" alt="wallacesintra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wallacesintra&" alt="wallacesintra" /></p>
