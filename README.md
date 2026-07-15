@@ -6,6 +6,6 @@ data class Person(
   portfolio = "https://wallacewahongo.netlify.app/",
   email = "otienowallace33@gmail.com",
   languages = listOf("Kotlin", "Javascript", "Python"),
-  role = "Mobile Engineer"
+  roles = list0f("Android Engineer", "Kotlin Multiplatform Engineer", "Backend Engineer")
 )
 ```
